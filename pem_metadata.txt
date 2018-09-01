@@ -1,0 +1,4 @@
+File automatically created from SVN or Git repository.
+
+URL: https://github.com/plegall/Piwigo-search_links 
+Revision: 8cf3cb23dca3fcc98850ce9c8b1137d664d40328 (Mon Mar 14 11:22:37 2016 +0100)

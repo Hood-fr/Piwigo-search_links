@@ -1,9 +1,9 @@
 <?php 
 /*
 Plugin Name: Search links
-Version: auto
+Version: 2.8.a
 Description: Perform a search with a link, no need to use the search form.
-Plugin URI: auto
+Plugin URI: http://piwigo.org/ext/extension_view.php?eid=825
 Author: plg
 Author URI: http://le-gall.net/pierrick
 */
